@@ -1,6 +1,4 @@
-# Frontend Mentor - Space tourism website solution
-
-This is a simple Wordpress website I built to improve my skills in Wordpress, an examble of a Tech company Website
+This is a simple WordPress website I built to improve my skills in WordPress, an example of a Tech Company Website
 
 ### Links
 
